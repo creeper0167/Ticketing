@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35431.56
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing.IOC", "Ticketing.IOC", "{02C26091-86FF-49FF-BEB7-51D895F9B4E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing.DataLayer", "Ticketing.DataLayer", "{23280C30-F1E0-4518-A317-030AB1BADDC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing.MVC", "Ticketing.MVC", "{96AAC8C5-0303-42B8-8B3E-0583116551FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing.Application", "Ticketing.Application", "{4E248997-876C-4946-BB35-64714D4B042C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing.Domain", "Ticketing.Domain", "{93D8AEE5-C3F0-4FF5-92E6-F23564AFC159}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FCC39AF-3B7C-47F8-816A-5238773F3F4C}
+	EndGlobalSection
+EndGlobal
